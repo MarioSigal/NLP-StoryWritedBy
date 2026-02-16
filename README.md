@@ -1,6 +1,6 @@
 # StoryWriter-Implementation
 
-Para adquirir una visión amplia del proyecto, ver POSTER_SW.
+Para adquirir una visión amplia del proyecto, ver Poster_SW.pdf.
 
 Pasos para poder ejecutar:
 <br>1- Crear entorno virtual (si hace falta) y descargar los requirements.txt.
